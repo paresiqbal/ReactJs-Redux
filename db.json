@@ -1,0 +1,154 @@
+{
+  "users" : [
+    {
+      "id": 1,
+      "nama": "Risti Cantik",
+      "alamat": "Karanga Anyar",
+      "umur": 19
+    },
+    {
+      "id": 2,
+      "nama": "Pares",
+      "alamat": "Air Bang",
+      "umur": 20
+    },
+    {
+      "id": 3,
+      "nama": "Iqbal",
+      "alamat": "Stadion",
+      "umur": 17
+    },
+    {
+      "id": 4,
+      "nama": "Yolanda",
+      "alamat": "Singapur",
+      "umur": 22
+    },
+    {
+      "id": 5,
+      "nama": "Agus",
+      "alamat": "Kepahiayng",
+      "umur": 40
+    },
+    {
+      "id": 6,
+      "nama": "Hendry",
+      "alamat": "London",
+      "umur": 18
+    },
+    {
+      "id": 7,
+      "nama": "Bismarck",
+      "alamat": "Denmark",
+      "umur": 39
+    },
+    {
+      "id": 8,
+      "nama": "St louis",
+      "alamat": "Iowa",
+      "umur": 27
+    },
+    {
+      "id": 9,
+      "nama": "Dracula",
+      "alamat": "Transilvania",
+      "umur": 200
+    },
+    {
+      "id": 10,
+      "nama": "Rossi",
+      "alamat": "Italy",
+      "umur": 40
+    },
+    {
+      "id": 11,
+      "nama": "Hitler",
+      "alamat": "German",
+      "umur": 31
+    },
+    {
+      "id": 12,
+      "nama": "Taro",
+      "alamat": "Tokyo",
+      "umur": 35
+    },
+    {
+      "id": 13,
+      "nama": "Edward",
+      "alamat": "New Zealand",
+      "umur": 20
+    },
+    {
+      "id": 14,
+      "nama": "Doni",
+      "alamat": "Sleman",
+      "umur": 24
+    },
+    {
+      "id": 15,
+      "nama": "Aldo",
+      "alamat": "Curup",
+      "umur": 69
+    },
+    {
+      "id": 16,
+      "nama": "Oppo",
+      "alamat": "Taiwan",
+      "umur": 4
+    },
+    {
+      "id": 17,
+      "nama": "Sumsang",
+      "alamat": "Korea",
+      "umur": 12
+    },
+    {
+      "id": 18,
+      "nama": "Deku",
+      "alamat": "Tokyo",
+      "umur": 17
+    },
+    {
+      "id": 19,
+      "nama": "Aldo",
+      "alamat": "Muko - Muko",
+      "umur": 31
+    },
+    {
+      "id": 20,
+      "nama": "Tisu",
+      "alamat": "Jakarta",
+      "umur": 20
+    },
+    {
+      "id": 21,
+      "nama": "Panjul",
+      "alamat": "Sidorejo",
+      "umur": 7
+    },
+    {
+      "id": 22,
+      "nama": "Agus",
+      "alamat": "Jambi",
+      "umur": 17
+    },
+    {
+      "id": 23,
+      "nama": "Mark",
+      "alamat": "Missoury",
+      "umur": 37
+    },
+    {
+      "id": 24,
+      "nama": "Drake",
+      "alamat": "Chesire",
+      "umur": 48
+    },
+    {
+      "id": 25,
+      "nama": "Elizabeth",
+      "alamat": "Londoh",
+      "umur": 100
+    }
+  ]
+}
